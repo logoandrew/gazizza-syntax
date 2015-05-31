@@ -1,6 +1,6 @@
 # Gazizza syntax theme
 
-A light &amp; colorful theme.
+A light &amp; colorful Atom theme.
 
 ## Screenshots
 
