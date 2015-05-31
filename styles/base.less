@@ -69,8 +69,10 @@ atom-text-editor.is-focused .line.cursor-line {
   background-color: @syntax-gutter-background-color-selected;
 }
 
-.whitespace.trailing {
-  background-color: #ECE4EB;
+atom-text-editor .gutter *[class*="git-line-"],
+atom-text-editor::shadow .gutter *[class*="git-line-"] {
+  border-left-width: 5px !important;
+  padding-left: calc(0.5em - 5px) !important;
 }
 
 .comment,
@@ -103,7 +105,7 @@ atom-text-editor.is-focused .line.cursor-line {
 }
 
 .constant.numeric {
-  color: @coral;
+  color: @orange;
 }
 
 .constant.character {
@@ -189,10 +191,6 @@ atom-text-editor.is-focused .line.cursor-line {
   color: #000000;
 }
 
-.pylinter {
-  color: #FFFFFF;
-}
-
 .text.html.markdown .markup.raw.inline {
   color: #66519E;
 }
@@ -205,17 +203,21 @@ atom-text-editor.is-focused .line.cursor-line {
 .markup.heading,
 .markup.heading .entity.name,
 .markup.heading.markdown .punctuation.definition.heading.markdown {
-  color: #ED5F21;
+  color: @orange;
 }
 
 .markup.italic {
   font-style: italic;
-  color: #CC3333;
+  color: @red;
 }
 
 .markup.bold {
   font-weight: bold;
-  color: #992E36;
+  color: @maroon;
+}
+
+.markup.raw {
+  color: @green !important;
 }
 
 .markup.underline {
@@ -223,25 +225,18 @@ atom-text-editor.is-focused .line.cursor-line {
   color: @yellow;
 }
 
-.markup.quote,
+.markup.quote, .comment.quote,
 .punctuation.definition.blockquote.markdown {
-  color: #0000FF;
-}
-
-.markup.quote {
-  color: #11119E;
+  color: @blue !important;
 }
 
 .string.other.link.title.markdown {
   text-decoration: underline;
-  color: #11911E;
+  color: @green;
 }
 
 .markup.raw.block {
-  color: #66519E;
-}
-
-.punctuation.definition.list_item.markdown {
+  color: @purple;
 }
 
 .markup.raw.block.fenced.markdown {
@@ -250,7 +245,7 @@ atom-text-editor.is-focused .line.cursor-line {
 
 .punctuation.definition.fenced.markdown,
 .variable.language.fenced.markdown {
-  color: #0000FF;
+  color: @blue;
   background-color: #E4E4EB;
 }
 
