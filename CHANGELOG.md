@@ -10,7 +10,7 @@ Initial Release!
   * re-worked Markdown colors.
   * slightly modified global orange color.
 
-### 0.2.1&ndash;0.2.2
+#### 0.2.1&ndash;0.2.2
 
   * slight color tweaks.
   * added installation instructions to readme.
