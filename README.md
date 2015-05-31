@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 # Gazizza syntax theme
 
 A light &amp; colorful Atom theme.
@@ -35,8 +34,7 @@ Then go to `Atom > Preferences > Themes` and in the `Syntax Themes` dropdown, se
 
 ## Developers
 
-Andrew Newhouse
-<span class="fa fa-camera-retro fa-lg"></span>
+[Andrew Newhouse](https://github.com/logoandrew)
 
 (theme loosely based on [Carlo Zottmann's](https://github.com/carlo) [conversion](https://github.com/carlo/rainbow-theme) of [Dayle Rees'](https://github.com/daylerees) [Rainbow theme](https://github.com/daylerees/colour-schemes/tree/master/sublime).)
 
