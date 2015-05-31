@@ -8,11 +8,11 @@ A light &amp; colorful Atom theme.
 
 ### HTML
 
-![HTML screenshot](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![HTML screenshot](https://raw.githubusercontent.com/logoandrew/gazizza-syntax/master/gazizza-html.png)
 
 ### CSS
 
-![CSS screenshot](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![CSS screenshot](https://raw.githubusercontent.com/logoandrew/gazizza-syntax/master/gazizza-css.png)
 
 <br/>
 
