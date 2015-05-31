@@ -16,6 +16,20 @@ A light &amp; colorful Atom theme.
 
 <br/>
 
+## Installation
+
+Run the following command:
+
+```sh
+apm install gazizza-syntax
+```
+
+Alternatively open `Settings > Install`, set the filter to `Themes` and search for `gazizza-syntax`.
+
+Then go to `Atom > Preferences > Themes` and in the `Syntax Themes` dropdown, select `Gazizza Syntax` from the list.
+
+<br/>
+
 ## Developers
 
 [Andrew Newhouse](https://github.com/logoandrew)
