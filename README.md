@@ -16,7 +16,7 @@ A light &amp; colorful Atom theme.
 ## Developers
 
 [Andrew Newhouse](https://github.com/logoandrew)
-(theme based on [Carlo Zottmann's](https://github.com/carlo) [conversion](https://github.com/carlo/rainbow-theme) of [Dayle Rees'](https://github.com/daylerees/colour-schemes) [Rainbow theme](https://github.com/daylerees/colour-schemes).)
+(theme based on [Carlo Zottmann's](https://github.com/carlo) [conversion](https://github.com/carlo/rainbow-theme) of [Dayle Rees'](https://github.com/daylerees) [Rainbow theme](https://github.com/daylerees/colour-schemes).)
 
 ## License
 
