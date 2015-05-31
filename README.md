@@ -33,7 +33,8 @@ Then go to `Atom > Preferences > Themes` and in the `Syntax Themes` dropdown, se
 ## Developers
 
 [Andrew Newhouse](https://github.com/logoandrew)
-(theme based on [Carlo Zottmann's](https://github.com/carlo) [conversion](https://github.com/carlo/rainbow-theme) of [Dayle Rees'](https://github.com/daylerees) [Rainbow theme](https://github.com/daylerees/colour-schemes).)
+
+(theme loosely based on [Carlo Zottmann's](https://github.com/carlo) [conversion](https://github.com/carlo/rainbow-theme) of [Dayle Rees'](https://github.com/daylerees) [Rainbow theme](https://github.com/daylerees/colour-schemes/tree/master/sublime).)
 
 <br/>
 
