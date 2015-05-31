@@ -14,6 +14,8 @@ A light &amp; colorful Atom theme.
 
 ![CSS screenshot](https://raw.githubusercontent.com/logoandrew/gazizza-syntax/master/gazizza-css-ss.png)
 
+*Screenshots shown using Consolas font (1.6 line-height)*
+
 <br/>
 
 ## Installation
