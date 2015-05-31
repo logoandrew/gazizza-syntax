@@ -1,9 +1,3 @@
-## 0.1.1
-
-Initial Release!
-
-<br/>
-
 ## 0.2.0
 
   * made git-line indicator thicker.
@@ -14,3 +8,9 @@ Initial Release!
 
   * slight color tweaks.
   * added installation instructions to readme.
+
+<br/>
+
+## 0.1.1
+
+  * alpha release
