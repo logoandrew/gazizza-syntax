@@ -28,7 +28,7 @@ apm install gazizza-syntax
 
 Alternatively open `Settings > Install`, set the filter to `Themes` and search for `gazizza-syntax`.
 
-Then go to `Atom > Preferences > Themes` and in the `Syntax Themes` dropdown, select `Gazizza Syntax` from the list.
+Then go to `Atom > Preferences > Themes` and in the `Syntax Themes` dropdown, select `Gazizza` from the list.
 
 <br/>
 
