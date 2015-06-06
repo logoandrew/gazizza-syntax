@@ -4,7 +4,7 @@
   * re-worked Markdown colors.
   * slightly modified global orange color.
 
-#### 0.2.1&ndash;0.2.4
+#### 0.2.1&ndash;0.2.5
 
   * slight color tweaks.
   * added installation instructions to readme.
