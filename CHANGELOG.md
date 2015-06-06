@@ -4,10 +4,11 @@
   * re-worked Markdown colors.
   * slightly modified global orange color.
 
-#### 0.2.1&ndash;0.2.5
+#### 0.2.1&ndash;0.2.6
 
   * slight color tweaks.
   * added installation instructions to readme.
+  * adjusted gutter spacing.
 
 <br/>
 
